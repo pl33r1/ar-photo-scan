@@ -1,0 +1,23 @@
+{
+  "album_id": "ALB123",
+  "title": "Выпускной 2025 - Класс 11А",
+  "images": [
+    {
+      "id": "p001",
+      "name": "Иванов Иван",
+      "ref_image_url": "https://cdn.example.com/albums/ALB123/p001.jpg",
+      "video_path": "videos/ALB123/p001.mp4",
+      "physical_width_m": 0.12,
+      "physical_height_m": 0.18
+    },
+    {
+      "id": "p002",
+      "name": "Петров Петр",
+      "ref_image_url": "https://cdn.example.com/albums/ALB123/p002.jpg",
+      "video_path": "videos/ALB123/p002.mp4",
+      "physical_width_m": 0.12,
+      "physical_height_m": 0.18
+    }
+  ]
+}
+
